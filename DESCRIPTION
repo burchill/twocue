@@ -1,0 +1,12 @@
+Package: twocue
+Title: Contains Raw Data and Processing for Multi Phonetic Cue Learning Experiments
+Version: 1.0.0
+Authors@R: 
+    person("Zachary", "Burchill", , "noemail@notanemailaddress.com", role = c("aut", "cre"))
+Description: This package is meant to hold the data for a series of experiments, along with processing scripts, post-processing functions, and other utility functions that might be needed.
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr
+RoxygenNote: 7.1.1
